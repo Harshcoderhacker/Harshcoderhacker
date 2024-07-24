@@ -22,9 +22,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HarshcoderHacker&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ## 🎯 Projects:
-- [**StartupX**](https://github.com/harshanand/startupx): A platform to streamline startup funding.
-- [**KidSafe**](https://github.com/harshanand/kidsafe): An app designed to provide a safe space for kids in the digital age.
-- [**CodeCollab**](https://github.com/harshanand/codecollab): A collaborative coding platform for developers.
+- [**Schooltalkz**](https://wwww.schooltalkz.com): A platform to provide a safe space for kids in digital age in moderated way.
+- [**Vigil**](https://wwww.vigil-1.com): An app designed to monitor the kids in this age of digitilization and making sure they are safe.
+- [**Kast**](https://app.kast.biz): An AI powered Leadgen Machine for Real Estate Agents.
 
 ### 🕹️ Random Fun Fact:
 Did you know? A single line of code can cause a program to run for hours or crash within seconds. 🕒💥
