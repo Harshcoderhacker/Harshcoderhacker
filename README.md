@@ -31,6 +31,8 @@ Did you know? A single line of code can cause a program to run for hours or cras
 ```python
 print("Hello, World!")  # The classic code that started it all!
 
+---
+
 <!-- Mood Tracker Widget -->
 <div style="display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 10px; padding: 10px; max-width: 300px; margin: 20px auto;">
   <div style="text-align: center;">
