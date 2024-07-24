@@ -23,7 +23,7 @@
 
 ## 🎯 Projects:
 - [**Schooltalkz**](https://wwww.schooltalkz.com): A platform to provide a safe space for kids in digital age in moderated way.
-- [**Vigil**](https://wwww.vigil-1.com): An app designed to monitor the kids in this age of digitilization and making sure they are safe.
+- [**Vigil**](https://www.vigil-1.com): An app designed to monitor the kids in this age of digitilization and making sure they are safe.
 - [**Kast**](https://app.kast.biz): An AI powered Leadgen Machine for Real Estate Agents.
 
 ### 🕹️ Random Fun Fact:
