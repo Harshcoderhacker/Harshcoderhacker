@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HarshcoderHacker&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ## 🎯 Projects:
-- [**Schooltalkz**](https://wwww.schooltalkz.com): A platform to provide a safe space for kids in digital age in moderated way.
+- [**Schooltalkz**](https://www.schooltalkz.com): A platform to provide a safe space for kids in digital age in moderated way.
 - [**Vigil**](https://www.vigil-1.com): An app designed to monitor the kids in this age of digitilization and making sure they are safe.
 - [**Kast**](https://app.kast.biz): An AI powered Leadgen Machine for Real Estate Agents.
 
