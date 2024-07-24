@@ -2,6 +2,12 @@
 🎉 Welcome to My GitHub! 🚀<br>Hey there, fellow tech enthusiast! 🌟 I'm Harshanand Sharma, a three-time startup wizard 🧙‍♂️ and a full-stack sorcerer with over 7 years of experience conjuring up innovative solutions and coding magic! 💻✨<br><br>I've journeyed through countless projects, diving deep into a treasure trove of tech stacks. From front-end frenzies to back-end brilliance, I've done it all! Whether it's Next.js, React Native, Java, Node.js, PostgreSQL, Prisma, Express.js, or Redis, I've got the skills to pay the bills! 🧩🚀<br><br>My code is my canvas, and innovation is my muse. Join me as I continue to explore the ever-evolving tech universe, pushing the boundaries of what's possible. Let's build something epic together! 💥🔧
 
 
+## 🎯 Projects:
+- [**Schooltalkz**](https://schooltalkz.com): A platform to provide a safe space for kids in digital age in moderated way.
+- [**Vigil**](https://www.vigil-1.com): An app designed to monitor the kids in this age of digitilization and making sure they are safe.
+- [**Kast**](https://app.kast.biz): An AI powered Leadgen Machine for Real Estate Agents.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshanand-sharma-0a2b1b238) 
 
@@ -20,11 +26,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshcoderHacker&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
-
-## 🎯 Projects:
-- [**Schooltalkz**](https://schooltalkz.com): A platform to provide a safe space for kids in digital age in moderated way.
-- [**Vigil**](https://www.vigil-1.com): An app designed to monitor the kids in this age of digitilization and making sure they are safe.
-- [**Kast**](https://app.kast.biz): An AI powered Leadgen Machine for Real Estate Agents.
 
 ### 🕹️ Random Fun Fact:
 Did you know? A single line of code can cause a program to run for hours or crash within seconds. 🕒💥
