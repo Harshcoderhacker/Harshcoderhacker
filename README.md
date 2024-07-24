@@ -21,8 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshcoderHacker&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
-### 🤖 Fun Widgets:
-![Jokes](https://jokeapi.dev/api?lang=en&contains=tech)  
+## 🎯 Projects:
+- [**StartupX**](https://github.com/harshanand/startupx): A platform to streamline startup funding.
+- [**KidSafe**](https://github.com/harshanand/kidsafe): An app designed to provide a safe space for kids in the digital age.
+- [**CodeCollab**](https://github.com/harshanand/codecollab): A collaborative coding platform for developers.
 
 ### 🕹️ Random Fun Fact:
 Did you know? A single line of code can cause a program to run for hours or crash within seconds. 🕒💥
