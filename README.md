@@ -21,6 +21,52 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshcoderHacker&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
+### 🤖 Fun Widgets:
+![Jokes](https://jokeapi.dev/api?lang=en&contains=tech)  
+
+### 🕹️ Random Fun Fact:
+Did you know? A single line of code can cause a program to run for hours or crash within seconds. 🕒💥
+
+### 👨‍💻 Code of the Day:
+```python
+print("Hello, World!")  # The classic code that started it all!
+
+<!-- Mood Tracker Widget -->
+<div style="display: flex; align-items: center; justify-content: center; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 10px; padding: 10px; max-width: 300px; margin: 20px auto;">
+  <div style="text-align: center;">
+    <h3 style="margin: 0;">Mood Tracker</h3>
+    <div id="mood-status" style="font-size: 24px; margin: 10px 0;">😊</div>
+    <select id="mood-selector" style="padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
+      <option value="happy">😊 Happy</option>
+      <option value="sad">😔 Sad</option>
+      <option value="excited">🤩 Excited</option>
+      <option value="angry">😠 Angry</option>
+      <option value="neutral">😐 Neutral</option>
+    </select>
+    <button onclick="updateMood()" style="margin-top: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #007bff; color: white; cursor: pointer;">Update Mood</button>
+  </div>
+</div>
+
+<script>
+  function updateMood() {
+    var moodSelector = document.getElementById('mood-selector');
+    var moodStatus = document.getElementById('mood-status');
+    
+    var mood = moodSelector.value;
+    
+    var moodIcons = {
+      happy: '😊',
+      sad: '😔',
+      excited: '🤩',
+      angry: '😠',
+      neutral: '😐'
+    };
+    
+    moodStatus.textContent = moodIcons[mood];
+  }
+</script>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshcoderHacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
